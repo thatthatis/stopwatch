@@ -1,5 +1,4 @@
 <template>
-
   <div id="app">
     <button @click="start">Start</button>
     <button @click="stop">Stop</button>

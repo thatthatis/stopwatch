@@ -1,14 +1,14 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-</template>
+  </template>
 
 <script>
 import Stopwatch from "./components/Stopwatch.vue";
 
 export default {
   name: "App",
-  components: { Stopwatch }
-}
+  component: { Stopwatch },
+};
 </script>
 
 <style>
