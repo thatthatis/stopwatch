@@ -1,6 +1,5 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <Stopwatch msg="Welcome to Your Vue.js App" />
 </template>
 
 <script>

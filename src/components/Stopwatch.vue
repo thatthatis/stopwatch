@@ -1,7 +1,5 @@
 <template>
 
-  <p>By Mat Beecher for submission to Trifoia</p>
-
   <div id="app">
     <button @click="start">Start</button>
     <button @click="stop">Stop</button>
