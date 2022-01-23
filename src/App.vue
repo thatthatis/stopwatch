@@ -7,10 +7,8 @@ import Stopwatch from "./components/Stopwatch.vue";
 
 export default {
   name: "App",
-  components: {
-    Stopwatch,
-  },
-};
+  components: { Stopwatch }
+}
 </script>
 
 <style>
